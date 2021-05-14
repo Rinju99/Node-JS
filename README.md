@@ -1,1 +1,1 @@
-# JavaScript refresher repo
+# NodeJS practices
