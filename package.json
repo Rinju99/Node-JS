@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Rinju99/Node-JS/issues"
   },
-  "homepage": "https://github.com/Rinju99/Node-JS#readme"
+  "homepage": "https://github.com/Rinju99/Node-JS#readme",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "node-fetch": "^2.6.1",
+    "query-string": "^7.0.0"
+  }
 }
