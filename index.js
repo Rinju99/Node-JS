@@ -21,8 +21,6 @@ const fields = [
   "temperature",
   "temperatureApparent",
   "cloudCover",
-  "cloudBase",
-  "cloudCeiling",
   "weatherCode",
 ];
 
